@@ -1,0 +1,11 @@
+body {
+  background: rgb(137, 187, 223);
+}
+
+.container {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
